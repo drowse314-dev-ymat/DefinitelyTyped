@@ -41,3 +41,4 @@ declare module favicojs {
 
 
 declare var Favico: favicojs.FavicoJsStatic;
+
